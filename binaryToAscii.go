@@ -1,26 +1,23 @@
 package main
+
 import (
+	"bufio"
 	"fmt"
-    "bufio"
-//    "strings"
-    "os"
-    "strconv"
+	"os"
+	"strconv"
 )
 
 func main() {
-//    numbers := [] string {}
 	binaryNumbers, err := os.Open("bin.txt")
-    fmt.Print(err)
+	defer binaryNumbers.Close()
+	fmt.Print(err)
 
-    scanner := bufio.NewScanner(binaryNumbers)
-//    b := make([]byte, 0)
-    for scanner.Scan() {
-//        fmt.Println(scanner.Text())
-        //convert binary text to ascii
-//        binString = fmt.Sprintf("%s%b",scanner.Text(), c)
-        n, _ := strconv.ParseUint(scanner.Text(), 2, 8)
-//        b = append(b, byte(n))
-//        i := strconv.Itoa(int(n))
-        fmt.Printf("%c", n)
-    }
+	scanner := bufio.NewScanner(binaryNumbers)
+	//Go through the file line by line
+	for scanner.Scan() {
+		//convert the string presenting a binary value to int
+		n, _ := strconv.ParseUint(scanner.Text(), 2, 8)
+		//print the character for the ascii code
+		fmt.Printf("%c", n)
+	}
 }
