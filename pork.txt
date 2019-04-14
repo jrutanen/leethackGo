@@ -1,0 +1,200 @@
+pork: $24
+rat poison: $347
+rat traps: $27
+cream: $4
+cheese: $43
+sausages: $23
+salmon: $176
+garlic: $2
+beans: $2
+sausages: $23
+milk: $12
+venison: $56
+garlic: $2
+sausages: $22
+oatmeal: $9
+venison: $58
+butter: $5
+tomatoes: $3
+garlic: $2
+carrots: $3
+garlic: $2
+beer 6p: $6
+potatoes: $1
+oatmeal: $7
+potatoes: $3
+milk: $15
+rat poison: $415
+oatmeal: $6
+oatmeal: $6
+cheese: $7
+onions: $2
+beef: $45
+beer 6p: $7
+rat traps: $24
+garlic: $2
+oatmeal: $5
+tomatoes: $3
+rat poison: $411
+potatoes: $5
+rat traps: $36
+beans: $2
+tomatoes: $2
+salmon: $129
+pork: $33
+cream: $7
+beans: $2
+beef: $71
+potatoes: $4
+beans: $1
+beer 6p: $9
+potatoes: $4
+rat traps: $30
+rat traps: $45
+oatmeal: $11
+venison: $75
+cheese: $62
+cheese: $14
+carrots: $3
+oatmeal: $14
+rat traps: $45
+oatmeal: $5
+beans: $2
+tomatoes: $4
+oatmeal: $13
+potatoes: $3
+oatmeal: $11
+pork: $35
+beans: $2
+cheese: $42
+pork: $38
+beer 6p: $6
+beans: $1
+oatmeal: $15
+beef: $77
+beans: $1
+garlic: $2
+tomatoes: $2
+garlic: $1
+rat traps: $46
+garlic: $2
+butter: $4
+cheese: $25
+beans: $1
+cheese: $50
+tomatoes: $2
+beef: $45
+cheese: $63
+garlic: $1
+cheese: $63
+carrots: $2
+butter: $8
+pork: $21
+beef: $45
+rat poison: $463
+sausages: $20
+venison: $71
+beef: $65
+pork: $36
+cream: $3
+beer 6p: $7
+beef: $77
+onions: $2
+beef: $59
+tomatoes: $5
+onions: $1
+rat poison: $320
+butter: $8
+salmon: $112
+sausages: $25
+salmon: $168
+carrots: $1
+rat poison: $276
+rat poison: $370
+butter: $6
+beans: $1
+beef: $63
+pork: $33
+sausages: $19
+milk: $11
+beer 6p: $9
+garlic: $1
+rat traps: $30
+rat traps: $43
+butter: $7
+butter: $6
+butter: $4
+cheese: $63
+beer 6p: $9
+potatoes: $4
+milk: $12
+cheese: $7
+pork: $26
+salmon: $120
+tomatoes: $2
+onions: $1
+pork: $32
+onions: $2
+pork: $22
+butter: $6
+venison: $74
+carrots: $3
+sausages: $16
+cream: $6
+rat traps: $44
+tomatoes: $5
+cheese: $54
+carrots: $4
+cheese: $61
+beans: $2
+butter: $5
+cream: $7
+butter: $8
+beef: $64
+carrots: $3
+sausages: $17
+garlic: $1
+pork: $38
+carrots: $4
+milk: $15
+rat poison: $356
+beer 6p: $6
+carrots: $1
+pork: $34
+salmon: $156
+milk: $14
+salmon: $119
+carrots: $1
+pork: $34
+pork: $32
+beef: $66
+salmon: $135
+rat poison: $416
+tomatoes: $4
+beans: $2
+cream: $5
+butter: $5
+garlic: $1
+milk: $12
+garlic: $1
+rat traps: $45
+beans: $2
+oatmeal: $13
+salmon: $119
+oatmeal: $9
+potatoes: $1
+salmon: $183
+butter: $6
+rat poison: $370
+beans: $1
+rat traps: $29
+rat traps: $27
+sausages: $22
+cheese: $31
+onions: $3
+butter: $6
+beer 6p: $6
+rat poison: $418
+potatoes: $4
+venison: $71
+beer 6p: $7
